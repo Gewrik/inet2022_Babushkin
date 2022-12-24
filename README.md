@@ -32,9 +32,8 @@
 Работа с Сisco Packet Tracer.
 
 Материалы о выполнении лабораторной работы:
-* Проект: [Project](TODO// file.pka)
-* Информация о конфигурации устройств: [Device Configuration Information](TODO// file.pdf)
-* Сценарий для настройки устройств: [Command script in cisco](TODO// file.txt)
+* Сценарий: [Cisco project](https://github.com/Gewrik/inet2022_Babushkin/blob/main/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9%203%20%D0%B4%D0%BB%D1%8F%20CPT.pka)
+* Информация о конфигурации устройств: [Device Configuration Information](https://github.com/Gewrik/inet2022_Babushkin/blob/main/default.pdf)
 
 ## ✅ Экзаменационные билет №11
 Ответ на экзаменационный билет доступен по ссылке: билет [№11](https://github.com/stankin/inet-2022/wiki/exam11)
